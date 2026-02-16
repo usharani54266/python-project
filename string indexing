@@ -1,0 +1,6 @@
+# username=input()
+# frist_name=username[0]
+# print(frist_name)
+# a=input()
+# third_name=a[2]
+# print(third_name)

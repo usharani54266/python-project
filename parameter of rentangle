@@ -1,0 +1,4 @@
+length=int(input())
+brendth=int(input())
+parameter=2*(length*brendth)
+print(parameter)

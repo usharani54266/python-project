@@ -1,0 +1,12 @@
+# a=input()
+# a=int(a)
+# b=input()
+# b=int(b)
+# c=a+b
+# print(c)
+message=input()
+message=int(message)
+passger=input()
+passger=int(message)
+result=message+passger
+print(result)
