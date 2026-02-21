@@ -1,0 +1,3 @@
+a=int(input())
+print("area of the square is:" + str(a*a))
+print("parimeter of the square i:" + str(4*a))
